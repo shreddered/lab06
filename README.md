@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.com/shreddered/lab04.svg?branch=master)](https://travis-ci.com/shreddered/lab04)
-# lab04
+[![Build Status](https://travis-ci.com/shreddered/lab05.svg?branch=master)](https://travis-ci.com/shreddered/lab05)
+# lab05
